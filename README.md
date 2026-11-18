@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # Protein Secondary Structure Prediction
 
 > Predicting protein secondary structure (Helix / Sheet / Coil) from amino acid sequences using MLP with sliding window encoding and Bidirectional LSTM — reaching up to **69% validation accuracy**.
